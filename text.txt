@@ -1,1 +1,1 @@
-i created conflicts file and merged and conflict is arised
+i created conflicts file and merged
